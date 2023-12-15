@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋 My name is Sandun Dilshan and I'm a Back End Developer from Sri Lanka</h2>
+<h1 align="left">Hi 👋 My name is Sandun Dilshan and I'm a Back End Developer from Sri Lanka</h2>
 
 ###
 
