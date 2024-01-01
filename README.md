@@ -7,23 +7,26 @@
 </h1>
 
 <p align="center">
-<a href="">
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166972883-f5f1d88c-0246-4374-88ac-ded0f2cf0699.png"/>
-</a>
 <a href="https://www.linkedin.com/in/sandun-dilshan-a640b7272">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
 </a>
-<a href="">
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166973962-d05d145a-b6a0-4643-bd3d-5ac845679367.png"/>
+<a href="sandundil2002@gmail.com">
+  <img height="50" src="https://i.ibb.co/LDwnJNn/icons8-gmail-94.png"/>
 </a>
-<a href="">
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166974096-7aeecad4-483e-4c85-983f-f4b37b3f794e.png"/>
+<a href="https://wa.link/dg90zs">
+  <img height="50" src="https://i.ibb.co/wBJ1rNC/icons8-whatsapp-64.png"/>
+</a>
+<a href="https://www.facebook.com/sandun.dilshan.10048?mibextid=ZbWKwL">
+  <img height="50" src="https://i.ibb.co/bX1kmj1/icons8-facebook-64.png"/>
 </a>
 <a href="https://twitter.com/sandundil2002">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166974271-91dfa250-d70b-4cb9-8707-f1bda1b708c3.png"/>
 </a>
-<a href="">
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
+<a href="https://msng.link/o?+94762357995=tg">
+  <img height="50" src="https://i.ibb.co/nMp5Jd4/icons8-telegram-48.png"/>
+</a>
+<a href="https://www.tiktok.com/@sandun.dilshan4?is_from_webapp=1&sender_device=pc">
+  <img height="50" src="https://i.ibb.co/P164pFr/icons8-tiktok-48.png"/>
 </a>
 </p>
 
@@ -32,14 +35,13 @@
 <h2> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
 
 ```yaml
-name: Sandun Dilshan
-located_in: Galle, Sri lanka
-current_job: Full Stack Developer
-education:
+name        : Sandun Dilshan
+located_in  : Galle, Sri lanka
+current_job : Full Stack Developer
+education   : Institute of software engineering (IJSE)
   [
     "Self-Taught Developer and Designer"
   ]
-institute: IJSE
 
 fields_of_interests:
   [
@@ -56,15 +58,17 @@ technical_background:
   ]
   
 currently_learning: ["Java, Python, Html, Css, Java script and MySQL"]
-2024 Goals: ["Create 25+ Projects and learn at least 5-10 new Technologies."]
-hobbies: ["Gaming", "Cinema", "Comedy"]
+2024 Goals: ["Create 20+ Projects and learn at least 5-10 new Technologies."]
+hobbies: ["Gaming", "Cinema", "Comedy", "Reading", "Music", "Traveling", "Cooking"]
 ```
   
 ---  
   
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
+<img src="https://i.ibb.co/z2p33Gz/icons8-intellij-idea-48.png" alt="intelig" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
+<img src="https://i.ibb.co/VJxGn07/icons8-java-94.png" alt="java" width="45" height="45"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="cLang" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="45" height="45"/>
@@ -80,6 +84,7 @@ hobbies: ["Gaming", "Cinema", "Comedy"]
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="45" height="45"/>   
+<img src="https://i.ibb.co/5MJMqF4/icons8-canva-48.png" alt="canva" width="45" height="45"/>   
 </p>
 
 <p align="center">
