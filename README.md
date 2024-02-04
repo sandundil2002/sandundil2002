@@ -29,10 +29,7 @@
     <img height="50" src="https://i.ibb.co/P164pFr/icons8-tiktok-48.png"/>
   </a>
 </p>
-
----
-
-<h2 align="center"> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=40&pause=1000&center=true&vCenter=true&random=false&width=1000&height=51&lines=A+Little+Bit+About+Me+and+My+Interests" alt="Typing SVG" /></a>
 
 ```yaml
 name        : Sandun Dilshan
@@ -62,7 +59,7 @@ currently_learning: ["Java, Python, HTML, CSS, JavaScript, and MySQL"]
 hobbies: ["Gaming", "Cinema", "Comedy", "Reading", "Music", "Traveling", "Cooking"]
 ```
 
-<h2 align="center"> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=40&pause=1000&center=true&vCenter=true&random=false&width=1000&height=51&lines=Some+Tools+I+Have+Used+and+Learned" alt="Typing SVG" /></a>
 <p align="center">
   <img src="https://i.ibb.co/z2p33Gz/icons8-intellij-idea-48.png" alt="intellij" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
