@@ -81,7 +81,8 @@ hobbies: ["Gaming", "Cinema", "Comedy", "Reading", "Music", "Traveling", "Cookin
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="45" height="45"/>   
   <img src="https://i.ibb.co/5MJMqF4/icons8-canva-48.png" alt="canva" width="45" height="45"/>   
 </p>
+
 <p align="center">
-  <img src="https://github.com/s-shemmee/s-shemmee/blob/output/github-contribution-grid-snake-dark.svg">
+  <img src="https://github.com/<sandundil2002>/<sandundil2002>/blob/output/github-contribution-grid-snake.svg">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
