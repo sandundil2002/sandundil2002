@@ -82,7 +82,5 @@ hobbies: ["Gaming", "Cinema", "Comedy", "Reading", "Music", "Traveling", "Cookin
   <img src="https://i.ibb.co/5MJMqF4/icons8-canva-48.png" alt="canva" width="45" height="45"/>   
 </p>
 
-### 🐍 Snake Game
-
-![GitHub Snake Animation](https://github.com/<sandundil2002>/<sandundil2002>/blob/output/github-contribution-grid-snake.svg)
+![GitHub Snake Animation](https://github.com/sandundil2002/sandundil2002/blob/output/github-contribution-grid-snake.svg)
 
